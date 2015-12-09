@@ -15,6 +15,7 @@ APPLICATION_NAME = 'Gmail API Python Quickstart'
 
 
 # Note - Oauth instructions here: https://developers.google.com/gmail/api/quickstart/python
+# API - explorer: https://developers.google.com/apis-explorer/#p/gmail/v1
 
 def get_credentials():
     """Gets valid user credentials from storage.
